@@ -80,7 +80,7 @@ st.subheader("Hard Skills")
 st.write(
     """
 - 👩‍💻 Programming: Python (Supervised and unsupervised machine learning, exploratory data analysis, network analysis)
-- 📊 Data Visulization: PowerBi, MS Excel, Plotly, Matplotlib, Altair
+- 📊 Data Visualization: PowerBi, MS Excel, Plotly, Matplotlib, Altair
 - 📚 Modeling: Logistic regression, linear regression, decision trees
 """
 )
