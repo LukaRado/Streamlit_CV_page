@@ -92,6 +92,7 @@ st.write(
 - ► Data science semesterprojekt i samarbejde med People in Sport: Supervised Machine Learning For Market Value Prediction
 - ► Økonomistyring semesterprojekt i samarbejde med Strandfaraskip Landsins: Undersøgelse af Databasestrukturen i Strandfaraskip Landsins 
 - ► Økonomistyring semesterprojekt i samarbejde med Climashop: Værdiskabelse i Mikrovirksomheder  
+- ► Semi-automatic email processor for Strandfaraskip Landsins
 """
 )
 
