@@ -66,7 +66,7 @@ st.write('\n')
 st.subheader("Experience & Qualifications")
 st.write(
     """
-- ✔️ 1 Års erfaring med bogføring og adhoc opgaver i økonomiafdelingen
+- ✔️ 2 Års erfaring med bogføring og adhoc opgaver i økonomiafdelingen
 - ✔️ Omfangsrig erfaring og viden indenfor Python og Excel
 - ✔️ God forståelse af statistiske principper og deres respektive anvendelser
 - ✔️ Proaktiv og initiativrig teamspiller
@@ -79,7 +79,7 @@ st.write('\n')
 st.subheader("Hard Skills")
 st.write(
     """
-- 👩‍💻 Programming: Python (Supervised and unsupervised machine learning, exploratory data analysis, network analysis)
+- 👩‍💻 Programming: Python (Supervised and unsupervised machine learning, Natural Language processing, exploratory data analysis, network analysis)
 - 📊 Data Visualization: PowerBi, MS Excel, Plotly, Matplotlib, Altair
 - 📚 Modeling: Logistic regression, linear regression, decision trees
 """
