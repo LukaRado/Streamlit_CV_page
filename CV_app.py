@@ -16,7 +16,7 @@ PAGE_TITLE = "Digital CV | Luka Radosavljevic"
 PAGE_ICON = ":wave:"
 NAME = "Luka Radosavljevic"
 DESCRIPTION = """
-Stud. Cand. Merc. MAC. Med fokus på automatisering og optimering af processer, ved hjælp af Data Science.
+Stud. Cand. Merc. MAC. med fokus på automatisering og optimering af processer, ved hjælp af Data Science.
 """
 EMAIL = "luka.radosavljevic@hotmail.com"
 SOCIAL_MEDIA = {
