@@ -108,7 +108,8 @@ st.write("06/2021 - 12/2021")
 st.write(
     """
 - ► Sommerferiejob, og sidenhen arbejdet hjemmefra resten af året
-- ► Arbejdet med kreditor og debitor bogføring og adhoc opgaver som bl.a. udarbejdelse af økonomiske rapporter til intern brug
+- ► Arbejdet med kreditor og debitor bogføring
+- ► Adhoc opgaver som bl.a. udarbejdelse af økonomiske rapporter til intern brug
 
 """
 )
