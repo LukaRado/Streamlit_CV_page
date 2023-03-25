@@ -19,6 +19,7 @@ DESCRIPTION = """
 Stud. Cand. Merc. MAC. med fokus på automatisering og optimering af processer, ved hjælp af Data Science.
 """
 EMAIL = "luka.radosavljevic@hotmail.com"
+PHONE = '+45 52166981'
 SOCIAL_MEDIA = {
     "LinkedIn": "https://www.linkedin.com/in/luka-radosavljevic-9466bb168/",
     "GitHub": "https://github.com/LukaRado",
@@ -52,6 +53,8 @@ with col2:
         mime="application/octet-stream",
     )
     st.write("📫", EMAIL)
+    st.write("📱", PHONE)
+
 
 
 # --- SOCIAL LINKS ---
